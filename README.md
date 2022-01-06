@@ -1,7 +1,7 @@
 # SF Salaries 2011 - 2014 Case Study
- `Pandas` `Seaborn` `Numpy` `SF Data Series`
+ `Pandas` `Seaborn` `Numpy`
 ## Description.
-> Practice `EDA` Explatory data analysis with SF Salaries data set.
+> Practice `EDA` Explatory data analysis with `SF Salaries data set`
 ## Data Exploration Ideas.
 * How have salaries changed over time between different groups of people?
 * How are base pay, overtime pay, and benefits allocated between different groups?
