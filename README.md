@@ -6,5 +6,6 @@
 > ![Pandas]() ![Numpy]() ![seaborn]()
 ----
 ### Tasks of case study
-1. Task one
-2. Task two
+1. Clean Tasks.
+2. Analyze Tasks.
+3. Visualize Tasks.
