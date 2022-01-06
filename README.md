@@ -1,6 +1,6 @@
 # SF Salaries 2011 - 2014 Case Study
 ## Description
-> Practice data analysis' tasks through a random ![data_set_name](https://www.kaggle.com/kaggle/sf-salaries?select=Salaries.csv)
+> Practice data analysis' tasks through a random ![data_set_name](https://www.kaggle.com/kaggle/sf-salaries?select=Salaries.csv/)
 
 ## Data Exploration Ideas EDA
 * How have salaries changed over time between different groups of people?
