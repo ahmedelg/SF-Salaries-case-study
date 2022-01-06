@@ -3,10 +3,10 @@
 ## Description.
 > Practice `EDA` Explatory data analysis with `SF Salaries data set`
 ## Data Exploration Ideas.
-* How have salaries changed over time between different groups of people?
-* How are base pay, overtime pay, and benefits allocated between different groups?
-* Is there any evidence of pay discrimination based on gender in this dataset?
-* How is budget allocated based on different groups and responsibilities?
+1. How have salaries changed over time between different groups of people?
+2. How are base pay, overtime pay, and benefits allocated between different groups?
+3. Is there any evidence of pay discrimination based on gender in this dataset?
+4. How is budget allocated based on different groups and responsibilities?
 
 ## References
 * Kaggle: https://www.kaggle.com/
