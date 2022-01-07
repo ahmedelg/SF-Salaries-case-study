@@ -8,11 +8,11 @@
 2. How are base pay, overtime pay, and benefits allocated between different groups?
 3. Is there any evidence of pay discrimination based on gender in this dataset?
 4. How is budget allocated based on different groups and responsibilities?
-> Descriptive Statistics
-6. What's the mean/average of SF salaries?
-7. What's the median of SF salaries?
-8. What's mode/common SF salary?
-9. What's SD Standard Deviation & V Variance of salaries?
+> `Descriptive` Statistics
+6. What's the `mean/average` of SF salaries?
+7. What's the `median` of SF salaries?
+8. What's `mode/common` SF salary?
+9. What's `SD` Standard Deviation & `V` Variance of salaries?
 
 ## References
 * Kaggle: https://www.kaggle.com/
