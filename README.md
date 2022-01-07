@@ -7,6 +7,8 @@
 2. How are base pay, overtime pay, and benefits allocated between different groups?
 3. Is there any evidence of pay discrimination based on gender in this dataset?
 4. How is budget allocated based on different groups and responsibilities?
+5. What's the mean of salaries in SF?
+6. 
 
 ## References
 * Kaggle: https://www.kaggle.com/
